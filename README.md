@@ -1,3 +1,32 @@
+# Contact manager built with React and Redux
+
+A contact manager built with React. It is the same contact manager as in the project on the link: [react_contact_manager](https://github.com/AlbertStjarne/react_contact_manager)
+
+Redux has been used for state management. [Redux](https://redux.js.org/)
+
+It is a full CRUD application.
+
+To mimic a REST API jsonplaceholder has been used. [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
+Bootstrap has been used for styling.
+
+
+## Screenshots
+
+Home and Add pages
+
+<img src="home.gif" width=650>
+
+
+## Author
+* Albert Stjärne (https://github.com/AlbertStjarne)
+
+
+
+
+
+# React & Redux README included from start
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
