@@ -2,6 +2,7 @@
 
 A contact manager built with React. It is the same contact manager as in the project on the link: [react_contact_manager](https://github.com/AlbertStjarne/react_contact_manager)
 
+
 Redux has been used for state management. [Redux](https://redux.js.org/)
 
 It is a full CRUD application.
